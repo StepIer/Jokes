@@ -1,7 +1,6 @@
 package com.stepler.jokes.app
 
-import com.stepler.jokes.domain.ApplicationComponent
-import com.stepler.jokes.domain.DaggerApplicationComponent
+import com.stepler.jokes.di.DaggerApplicationComponent
 import dagger.android.AndroidInjector
 import dagger.android.DaggerApplication
 
