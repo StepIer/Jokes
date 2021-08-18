@@ -1,7 +1,8 @@
-package com.stepler.jokes
+package com.stepler.jokes.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.stepler.jokes.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
